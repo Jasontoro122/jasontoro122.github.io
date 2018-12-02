@@ -8,5 +8,5 @@ permalink: /samples/
 316 Huntington Avenue, Boston MA 02115  
 (617) 538-0862  
 toro-mccue.j@husky.neu.edu 
-***
-## <p style="text-align: center;"> Writing Sample 1 </p>
+___  
+## Writing Sample 1
