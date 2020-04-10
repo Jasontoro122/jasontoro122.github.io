@@ -72,4 +72,8 @@ She smiles, a smug gesture of domination. “I thought so. Now, where am I?”
 	&nbsp;&nbsp;&nbsp;The woman screams and backs away from the wall, seemingly immune to the pain of the splint in her panicked state. Derrel raises a brow and looks to see what she’s looking at. It’s his spit.  
 	&nbsp;&nbsp;&nbsp;And it’s a dark, crimson red.  
 	
-## If interested in my current published writings, please visit [The Punished Backlog](https://punishedbacklog.com/index.php/author/jtoro/) for articles written about game design and game theory.
+## Game Design Writings
+-[The Punished Backlog](https://punishedbacklog.com/index.php/author/jtoro/) for articles written about game design and game theory.  
+-[Nerds and Scoundrels](https://www.nerdsandscoundrels.com/author/jason-toro/) for *Dungeons & Dragons 5th Edition* articles.  
+-I was the main writer for this class project: [Persona 5 Tabletop RPG](https://docs.google.com/document/d/1hUZW0S3uErQqImoB-84CpSEAq1U_qDgX1-edFBf7wUY/edit?usp=sharing)  
+-And the main game designer for this one: [Ferrus Cattus](https://docs.google.com/document/d/1gvhHqH7K-8l0yRNinE8EQMRmvead-6zkdrpitLu2Ekg/edit?usp=sharing)
